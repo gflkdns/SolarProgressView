@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="SolarView">
+        <attr name="max" format="integer" />
+        <attr name="pregress" format="integer" />
+        <attr name="color" format="color" />
+        <attr name="solarScale" format="float" />
+        <attr name="lightRadius" format="dimension" />
+    </declare-styleable>
+</resources>
