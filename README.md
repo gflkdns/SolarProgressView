@@ -3,6 +3,8 @@
 
 ![](./preview.gif)
 
+### 使用
+
     <com.mqt.solarprogressview.SolarView
         android:id="@+id/sv_light"
         android:layout_width="120dp"
