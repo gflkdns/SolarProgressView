@@ -13,7 +13,12 @@
         app:pregress="0"
         app:solarScale="0.26" />
 ### 自定义属性
+ > color：控件颜色
+> 
    > lightRadius：四周小圆的半径
+   > 
    > max：进度最大值
+   > 
    > pregress：当前进度值
+   > 
    > solarScale：中间“太阳”占整个控件的百分比0-1
