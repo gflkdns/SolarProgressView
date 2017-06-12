@@ -1,6 +1,7 @@
 # SolarProgressView
 类似于太阳花形状的自定义进度条
 
+![](./preview.gif)
 
     <com.mqt.solarprogressview.SolarView
         android:id="@+id/sv_light"
@@ -11,7 +12,8 @@
         app:max="8"
         app:pregress="0"
         app:solarScale="0.26" />
-    lightRadius：四周小圆的半径
-    max：进度最大值
-    pregress：当前进度值
-    solarScale：中间“太阳”占整个控件的百分比0-1
+### 自定义属性
+   > lightRadius：四周小圆的半径
+   > max：进度最大值
+   > pregress：当前进度值
+   > solarScale：中间“太阳”占整个控件的百分比0-1
